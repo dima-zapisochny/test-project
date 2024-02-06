@@ -1,0 +1,268 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "name": "Skane Green Coffee Table",
+      "description": "No, the Skane is not an apparition although, thanks to its sleek and fluid design, we don't blame you for thinking so. Ok, maybe you never thought so. The point is, the Skane may look minimal and light but we actually made it entirely of powder-coated metal. A very sturdy coffee table, the Skane is committed to making your Living (or outdoor Living) look very dreamy for many seasons to come.",
+      "color": "Green",
+      "material": "Wood",
+      "category": "Table",
+      "room": "Living",
+      "price": "650",
+      "img": "../src/assets/img/tables/table_1.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Lenia Walnut Oval Coffee Table",
+      "description": "Surf’s up. The Lenia coffee table features an oval body reminiscent of the iconic mid-century surfboard shape. A solid walnut base and spindle shelf gives you room to stash your latest design magazines, favorite architecture books, and that handmade ceramic bowl you picked up the last time you were in Hawaii. Cowabunga, dude.",
+      "color": "Brown",
+      "material": "Wood",
+      "category": "Table",
+      "room": "Dining",
+      "price": "450",
+      "img": "../src/assets/img/tables/table_2.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Amoeba Wild Walnut 42.5 Wide Coffee Table",
+      "description": "A mid-century modern design, the Amoeba Coffee table offers a pleasing focal point to your space. Several pieces of American Black Walnut are laminated together to form a beautiful table top with visible knots and color variation.",
+      "color": "Brown",
+      "material": "Wood",
+      "category": "Table",
+      "room": "Living",
+      "price": "500",
+      "img": "../src/assets/img/tables/table_3.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Vitri Walnut Coffee Table",
+      "description": "Smoke screen. The Vitri teases smooth, powder-coated metal legs and walnut shelf through tempered smoke-glass. Perfect for resting your drink, the Vitri brings intrigue and a sixties edge to your living space.",
+      "color": "Brown",
+      "material": "Wood",
+      "category": "Table",
+      "room": "Living",
+      "price": "300",
+      "img": "../src/assets/img/tables/table_4.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Agotu Walnut Coffee Table",
+      "description": "In case of indecision, enter the Agotu: a coffee table that won't make you choose between Italian Carrara marble, walnut, or powder coated steel. Polished and spacious, we love that it fits equally as well into industrial spaces as it does into mid-century modern ones. Have it all, decision made.",
+      "color": "Brown",
+      "material": "Metal",
+      "category": "Table",
+      "room": "Living",
+      "price": "520",
+      "img": "../src/assets/img/tables/table_5.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Halden Dark Charcoal Oval Coffee Table",
+      "description": "A stylish new focal point. The Halden coffee table is a natural fit for the centre of the room. Its easy Boho charm and lightweight aluminum structure make it a versatile piece that's waiting for you to drop a book on it in the Living or a heaping bowl of guacamole out on the patio.",
+      "color": "Black",
+      "material": "Metal",
+      "category": "Table",
+      "room": "Living",
+      "price": "400",
+      "img": "../src/assets/img/tables/table_6.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Bowery Black Nesting Coffee Table",
+      "description": "You know how onions have layers? So does this nesting coffee table. Except, unlike an onion, the Bowery doesn't smell bad or make you cry. No, no. Made of powder-coated metal, polished marble, and solid wood — the Bowery is richly layered in mixed materials and spacious table space.",
+      "color": "Black",
+      "material": "Stone",
+      "category": "Table",
+      "room": "Living",
+      "price": "600",
+      "img": "../src/assets/img/tables/table_7.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Silicus Light Gray Oblong Coffee Table",
+      "description": "Space out. The Silicus coffee table series combines a slim gold foundation with a painted glass top. Available in a range of colors, your Silicus coffee table can bring total translucence, or inject your living space with creamy color.",
+      "color": "Gray",
+      "material": "Glass",
+      "category": "Table",
+      "room": "Living",
+      "price": "490",
+      "img": "../src/assets/img/tables/table_8.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Burrard Forest Green Loveseat",
+      "description": "For those that love an angular mid-century look. Clean lines, slender arms and tapered legs give this loveseat a strong but airy presence. Deep seats with comfortable cushions make naps and lounging a no-brainer.",
+      "color": "Green",
+      "material": "Wood",
+      "category": "Sofa",
+      "room": "Living",
+      "price": "1250",
+      "img": "../src/assets/img/sofas/sofa_1.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Burrard Forest Green Right Sectional",
+      "description": "For those that love an angular mid-century look. Clean lines, slender arms and tapered legs give this sofa a strong but airy presence. Deep seats with comfortable cushions make naps and lounging a no-brainer.",
+      "color": "Green",
+      "material": "Wood",
+      "category": "Sofa",
+      "room": "Living",
+      "price": "1450",
+      "img": "../src/assets/img/sofas/sofa_2.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Sven Oxford Blue Bench",
+      "description": "Get comfortable. Whether it’s in the entryway, as extra seating in the Living, or a cushy perch for the end of the bed — the Sven Bench is our beloved sofa motif reimagined just a little flatter.",
+      "color": "Blue",
+      "material": "Wood",
+      "category": "Sofa",
+      "room": "Living",
+      "price": "1150",
+      "img": "../src/assets/img/sofas/sofa_3.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Abisko Aurora Blue Left Sectional",
+      "description": "There are two types of people in this world: sitters and loungers. With a feather-mix bench seat cushion and deluxe chaise, there’s plenty of room for both on this equal opportunity sectional. The Aurora Blue fabric and titanium-finished legs contrast with the Scandinavian design for a true design legend.",
+      "color": "Blue",
+      "material": "Metal",
+      "category": "Sofa",
+      "room": "Living",
+      "price": "1400",
+      "img": "../src/assets/img/sofas/sofa_4.jpg"
+    },
+    {
+      "id": 113,
+      "name": "Abisko Plush Yarrow Gold Right Sectional",
+      "description": "A generous serving. The Abisko Sectional offers a wide lounging chaise so you never have to restrict your relaxation. Made with plush velvet upholstery and titanium-finished legs, the Abisko sectional is here to make a lasting statement. Throw your hands behind your head and stretch out — this is your time to recline.",
+      "color": "Yellow",
+      "material": "Metal",
+      "category": "Sofa",
+      "room": "Living",
+      "price": "1300",
+      "img": "../src/assets/img/sofas/sofa_5.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Tablet Charme Black Square Ottoman",
+      "description": "A generous serving. The Abisko Sectional offers a wide lounging chaise so you never have to restrict your relaxation. Made with plush velvet upholstery and titanium-finished legs, the Abisko sectional is here to make a lasting statement. Throw your hands behind your head and stretch out — this is your time to recline.",
+      "color": "Black",
+      "material": "Metal",
+      "category": "Sofa",
+      "room": "Living",
+      "price": "1320",
+      "img": "../src/assets/img/sofas/sofa_6.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Sven Oxford Black Sofa",
+      "description": "Casually sexy. The Sven in oxford black is equal parts laid back and intimidatingly hot. This black leather sofa is built on a corner-blocked wooden frame and upholstered with supple semi-aniline leather. Slender walnut legs, a tufted bench seat, and loose back and bolster cushions make for a sofa that is pulled together, but ready to get a little rowdy too. Add some sensual energy to your living space. Meow. Natural color variations, wrinkles and creases are part of the unique characteristics of this leather. It will develop a relaxed vintage look with regular use.",
+      "color": "Black",
+      "material": "Wood",
+      "category": "Sofa",
+      "room": "Living",
+      "price": "1220",
+      "img": "../src/assets/img/sofas/sofa_7.jpg"
+    },
+    {
+      "id": 116,
+      "name": "Nirvana Dakota Tan Sofa",
+      "description": "You know your dad’s incredible vintage bomber jacket? The Nirvana dakota tan leather sofa is that jacket, but in couch form. With super-plush down-filled cushions, a corner-blocked wooden frame, and a leather patina that only gets better with age, the Nirvana will have you looking cool and feeling peaceful every time you take a seat. Looks pretty great with a sheepskin throw, if we may say so. With use, this leather will become softer and more wrinkled and the cushions will take on a lived-in look, like your favorite leather jacket.",
+      "color": "Brown",
+      "material": "Wood",
+      "category": "Sofa",
+      "room": "Living",
+      "price": "1150",
+      "img": "../src/assets/img/sofas/sofa_8.jpg"
+    },
+    {
+      "id": 117,
+      "name": "Ceni Hemlock Green Armchair",
+      "description": "The Ceni armchair fuses classic, but modern, style with its neutral tone, plush seats, sleek track arms and clean lines. Its beautifully crafted wooden base enhances its strong and sturdy construction, while its removable seat cushions, backrests and armrests allow you to snuggle up comfortably. Pair the Ceni armchair with the Ceni loveseat or Ceni sofa for a perfect look.",
+      "color": "Green",
+      "material": "Wood",
+      "category": "Chair",
+      "room": "Living",
+      "price": "440",
+      "img": "../src/assets/img/chairs/chair_1.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Kalok Berkshire Aqua Lounge Chair",
+      "description": "To put it plainly: this lounge chair is straight up cozy. So cozy, it will be hard to make plans that don't involve you lounging on it. Luckily, the low-profile Kalok Lounge Chair is deep-seated and cushy to keep all your guests comfy, even Sparky (if he's a good boy).",
+      "color": "Blue",
+      "material": "Wood",
+      "category": "Chair",
+      "room": "Living",
+      "price": "380",
+      "img": "../src/assets/img/chairs/chair_2.jpg"
+    },
+    {
+      "id": 119,
+      "name": "Rus Black Dining Chair",
+      "description": "The Shaker-inspired Rus Chair is simple, bold, and timeless — what else can we say? The Shakers really knew what they were doing when they put spindles on chairs, and sometimes you gotta stick to the classics.",
+      "color": "Black",
+      "material": "Wood",
+      "category": "Chair",
+      "room": "Dining",
+      "price": "280",
+      "img": "../src/assets/img/chairs/chair_3.jpg"
+    },
+    {
+      "id": 120,
+      "name": "Svelti Daisy Yellow Dining Chair",
+      "description": "In one word? Iconic. In more words? Versatile, durable, easy-going, modern — we could go on forever. Long story short, our Svelti Chairs are kind of a big deal. And with so many colors to choose from, you have the option to go for a subtle monochromatic palette or mix and match for that extra 'wow' factor. Seriously, wow.",
+      "color": "Yellow",
+      "material": "Metal",
+      "category": "Chair",
+      "room": "Dining",
+      "price": "320",
+      "img": "../../src/assets/img/chairs/chair_4.jpg"
+    },
+    {
+      "id": 121,
+      "name": "Nosh Chalk Gray Walnut Dining Chair",
+      "description": "Take a seat on the Nosh for some grade-A 'noshing,' as in 'sitting comfy' — that's right, we're co-opting the verb. Designed with tapered legs, soft textured upholstery, and solid wood construction, this chair is MCM-inspired design at its best.",
+      "color": "White",
+      "material": "Wood",
+      "category": "Chair",
+      "room": "Dining",
+      "price": "330",
+      "img": "../src/assets/img/chairs/chair_5.jpg"
+    },
+    {
+      "id": 122,
+      "name": "Sede Mist Gray Walnut Counter Stool",
+      "description": "Turn your day around. A total mid-century modern dream seat, our Sede Counter Stool proves that good design always comes full circle. Tapered solid wood legs? Check. Bentwood seat? Absolutely. With a low, exposed veneer back, the Sede helps you lean into small talk or deep into conversation with confidence. Cheers to that.",
+      "color": "White",
+      "material": "Wood",
+      "category": "Chair",
+      "room": "Dining",
+      "price": "310",
+      "img": "../src/assets/img/chairs/chair_7.jpg"
+    },
+    {
+      "id": 123,
+      "name": "Sede Walnut Dining Chair",
+      "description": "Minimally refined. We’ve taken our Sede chair bentwood silhouette and done away with the fabric and the leather to expose its rich, wood frame. Each chair will be unique, with individual storybook veneer patterns differing from piece to piece. The solid construction will allow you to love these chairs for many years to come. Chairs are sold and shipped in pairs. Price is shown per chair",
+      "color": "Brown",
+      "material": "Wood",
+      "category": "Chair",
+      "room": "Dining",
+      "price": "350",
+      "img": "../src/assets/img/chairs/chair_7.jpg"
+    },
+    {
+      "id": 124,
+      "name": "Rhett Charme Tan Lounge Chair",
+      "description": "Don’t be such a square — unless you’re also sumptuously proportioned, cozy as heck, and cute to boot. The Rhett gives squares a reason to stand proud: a cushy overstuffed seat, loose back cushion, and plush armrests make for a great spot to kick back and watch the game. Top it off with solid wood tapered legs to keep the whole look light. Squares, unite!",
+      "color": "Brown",
+      "material": "Wood",
+      "category": "Chair",
+      "room": "Living",
+      "price": "410",
+      "img": "../src/assets/img/chairs/chair_8.jpg"
+    }
+  ]
+}
