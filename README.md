@@ -1,7 +1,26 @@
-# Vue 3 + Vite
+# Проект на Vue 2 з використанням Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Вимоги
+Переконайтеся, що на вашому комп'ютері встановлені наступні програми:
 
-## Recommended IDE Setup
+- [Node.js](https://nodejs.org/) (рекомендується версія 14 і вище)
+- [npm](https://www.npmjs.com/) (зазвичай встановлюється разом з Node.js)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Встановлення залежностей
+Відкрийте термінал у кореневій директорії проекту та виконайте команду:
+
+```bash
+npm install
+```
+
+## Запуск проекту у режимі розробки
+Для запуску додатка у режимі розробки використовуйте команду:
+
+```bash
+npm run dev
+```
+## Структура проекту
+
+**Part 1**
+- `db/` - директорія з даними.
+- `src/` - директория с вихідним кодом додатку.
