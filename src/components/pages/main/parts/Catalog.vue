@@ -4,8 +4,8 @@
 
     <div class="catalog-header">
       <PrimaryButton
+          v-if="isLowResolutionSettings"
           caption="Open filters"
-          class="filters-open-button"
           @click="toggleSidebar"
       />
 
@@ -41,8 +41,8 @@
 </template>
 
 <script>
-import { PrimaryButton, EmptyState } from '../../../baseComponents/index.js';
-import { ProductList } from '../products/index.js';
+import { PrimaryButton, EmptyState } from '../../../baseComponents';
+import { ProductList } from '../products';
 
 export default {
   name: 'Catalog',
@@ -51,6 +51,14 @@ export default {
     PrimaryButton,
     ProductList,
     EmptyState
+  },
+
+  props: {
+    isLowResolutionSettings: {
+      type: Boolean,
+      required: false,
+      default: false
+    }
   },
 
   data: () => ({
@@ -121,10 +129,6 @@ export default {
   color: darkred;
 }
 
-.filters-open-button {
-  display: none;
-}
-
 .catalog-sort {
   display: flex;
   margin-left: 20px;
@@ -150,10 +154,6 @@ export default {
 }
 
 @media (max-width: 768px) {
-  .filters-open-button {
-    display: flex;
-  }
-
   .catalog-header {
     justify-content: space-between;
   }

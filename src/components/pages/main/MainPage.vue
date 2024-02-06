@@ -6,7 +6,10 @@
         @toggleSidebar="toggleSidebar"
     />
 
-    <Catalog @toggleSidebar="toggleSidebar"/>
+    <Catalog
+        :isLowResolutionSettings="isLowResolutionSettings"
+        @toggleSidebar="toggleSidebar"
+    />
 
     <div v-if="isShowOverlay" class="page-overlay" @click="toggleSidebar" ></div>
   </div>
